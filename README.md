@@ -1,13 +1,15 @@
-Alberto Vargas Borsatto: 00287213 (Turma B)
-Anderson Anan Caporale: 00318259 (Turma B)
-Lucas Moreira Schirmbeck: 00324412 (Turma B)
+Nome | Cartão | Turma
+---|:---:|:---:
+Alberto Vargas Borsatto | 00287213 | Turma B
+Anderson Anan Caporale | 00318259 | Turma B
+Lucas Moreira Schirmbeck | 00324412 | Turma B
 
-Bibliotecas:
+# Bibliotecas:
 É necessária a instalação da biblioteca matplotlib.pyplot, para a realização do plot do gráfico e random para a geração de números aleatórios dentro de um intervalo definido.
 
 
 
-Genética da realeza:
+# Genética da realeza:
 
 Valores:
 
@@ -19,7 +21,7 @@ e = 1
 
 ![gráfico](gr%C3%A1fico.png)
 
-Alegrete:
+# Alegrete:
 
 Valores:
 
