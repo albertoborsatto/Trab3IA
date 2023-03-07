@@ -11,23 +11,23 @@ Lucas Moreira Schirmbeck | 00324412 | Turma B
 
 # Genética da realeza:
 
-Valores:
+**Valores:**
 
-g = 100
-n = 40
-k = 2
-m = 0.3
-e = 1
+- g = 100
+- n = 40
+- k = 2
+- m = 0.3
+- e = 1
 
 ![gráfico](gr%C3%A1fico.png)
 
 # Alegrete:
 
-Valores:
+**Valores:**
 
-theta0 = 0
-theta1 = 0
-alpha = 0.01
-num_iterations = 1000
-EQM final: 8.529433040552068
+- theta0 = 0
+- theta1 = 0
+- alpha = 0.01
+- num_iterations = 1000
+- EQM final: 8.529433040552068
 
